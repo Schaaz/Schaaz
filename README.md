@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am exploring different stuff. You can connect with me on linkedIn!
+
 <!--
 **Schaaz/Schaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
